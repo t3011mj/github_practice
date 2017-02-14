@@ -1,3 +1,11 @@
-Hello, this is my statement 
+
+Hello, this is my statement.  
+
+Yosuke has changed this file.
+Below is Micheals' change, but I'm adding my change above ^^^^
+
+
+
+"Hello this is my merge conflict change"
 
 This is Michael Johnson's statement
