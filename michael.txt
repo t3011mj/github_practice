@@ -1,1 +1,3 @@
-Hello, this is my statement 
+Hello, this is my statement.  
+
+Yosuke has changed this file.
