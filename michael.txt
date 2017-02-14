@@ -1,1 +1,4 @@
-Hello, this is my statement "Hello this is my change"
+
+"Hello this is my merge conflict change"
+
+
