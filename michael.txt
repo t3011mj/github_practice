@@ -1,1 +1,3 @@
 Hello, this is my statement 
+
+This is Michael Johnson's statement
